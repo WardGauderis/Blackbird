@@ -1,3 +1,6 @@
 balanced/*
 independent/*
-data/*
+data/balanced
+data/independent
+data/shapes
+data/rainbow
